@@ -1,0 +1,16 @@
+import = [
+	"~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[window]
+padding = { x = 12, y = 12}
+opacity = 0.90
+blur = true
+dimensions = { columns = 150, lines = 50 }
+
+[font]
+normal = { family = "Lilex Nerd Font", style = "Bold" }
+bold = { family = "Lilex Nerd Font", style = "Bold" }
+italic = { family = "Lilex Nerd Font", style = "Bold Italic" }
+bold_italic = { family = "Lilex Nerd Font", style = "Bold Italic" }
+size = 10
